@@ -45,9 +45,9 @@ education:
     date_start: 2018-08-01
     date_end: 2020-05-07
     summary: |
-    GPA: 3.7/4.0
+      GPA: 3.7/4.0
     
-    Networking · Critical Thinking · Analytical Skills · Object-Oriented Programming (OOP) · Systems Analysis · Application Support · Infrastructure · Problem Solving · Unix · Database Administration
+      Networking · Critical Thinking · Analytical Skills · Object-Oriented Programming (OOP) · Systems Analysis · Application Support · Infrastructure · Problem Solving · Unix · Database Administration
   - area: AA in Coputer and Information Sciences
     institution: Miami Dade College
     date_start: 2015-08-01
