@@ -154,4 +154,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+At Farall Solution LLC and Oracle, my expertise in technical support and problem-solving is put to the test daily, ensuring optimal functionality for a diverse array of applications. The role at Farall Solution encompasses Linux server management and implementing APIs, tailored to meet the specific needs of our clients.
+
+With a solid educational foundation from Florida International University, my analytical skills are further sharpened, allowing me to maintain impressive ticket resolution metrics at Oracle. This track record of success is built on a thorough understanding of over 20 applications, demonstrating my commitment to excellence in the IT field.
